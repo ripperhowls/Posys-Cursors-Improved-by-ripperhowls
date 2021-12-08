@@ -11,8 +11,6 @@ If you have the possibility, please express your gratitude to him: https://www.p
 
 The main idea of the edited version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow rod and make color of pointers match perfeclty.
 
-Thanks for using and enjoy!
-
 https://youtu.be/YThelfB2fvg
 
 info and instructions.txt:
