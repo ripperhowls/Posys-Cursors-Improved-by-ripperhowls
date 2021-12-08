@@ -15,7 +15,7 @@ Thanks for using and enjoy!
 
 https://youtu.be/YThelfB2fvg
 
-The contents of the original text file "info and instructions.txt":
+info and instructions.txt:
 
 To easily install the cursors in Windows 10 and below, do the following:
 
