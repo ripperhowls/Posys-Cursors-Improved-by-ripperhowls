@@ -37,6 +37,9 @@ You can always manually install the cursors, or check the installer yourself by 
 Enjoy!
 
 Version history:
+
 2020-06-01 (v1.3) Replaced a faulty cursor file in the 'All Posy's cursors' zip file (thanks Corey!).
+
 2020-03-01 (v1.2) Added 'Posy precise v2' and 'Posy beam Free Center' to the extra cursors.
+
 2018-11-16 (v1.1) Improved the 125% scaling cursor sets to include 175% scaling correction as well.
