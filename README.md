@@ -6,7 +6,7 @@ The cursors and installers are backwards compatible all the way from Win10 to Wi
 
 The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 
-If you have the possibility, please express your gratitude to him: https://www.paypal.com/paypalme/michieldb
+If you have the possibility, please express your gratitude to author: https://www.paypal.com/paypalme/michieldb
 
 The main idea of the edited version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow rod and make color of pointers match perfeclty.
 
