@@ -10,9 +10,9 @@ Thanks for using and enjoy!
 DOWNLOAD: [Posy's Cursors 1.3 Improved by ripperhowls.zip](https://github.com/ripperhowls/Posy-Improved-Cursors-ripperhowls/files/7675554/Posy.s.Cursors.1.3.Improved.by.ripperhowls.zip)
 
 
-Original info and instructions.txt:
-
 https://youtu.be/YThelfB2fvg
+
+The contents of the original text file "info and instructions.txt":
 
 To easily install the cursors in Windows 10 and below, do the following:
 
