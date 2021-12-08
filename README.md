@@ -9,9 +9,6 @@ The main idea of the edited version of the cursor pack is getting rid of redunda
 
 Thanks for using and enjoy!
 
-DOWNLOAD: [Posy's Cursors 1.3 Improved by ripperhowls.zip](https://github.com/ripperhowls/Posy-Improved-Cursors-ripperhowls/files/7675554/Posy.s.Cursors.1.3.Improved.by.ripperhowls.zip)
-
-
 https://youtu.be/YThelfB2fvg
 
 The contents of the original text file "info and instructions.txt":
