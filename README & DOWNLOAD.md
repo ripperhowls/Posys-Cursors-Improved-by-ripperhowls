@@ -1,4 +1,4 @@
-# Posy-Improved-Cursors-edit-by-ripperhowls
+# Posys-Improved-Cursors-edit-by-ripperhowls
 The cursors and installers are backwards compatible all the way from Win10 to WinXP!
 
 The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
