@@ -1,5 +1,5 @@
 # Posy-Improved-Cursors-ediy-by-ripperhowls
-The source cursors were created by the wonderful Michiel de Boer aka Posy.
+The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 If you have the possibility, please express your gratitude to him: https://www.paypal.com/paypalme/michieldb
 The main idea of the edited version of the cursor pack is to get rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow rod.
 Thank You!
@@ -10,8 +10,6 @@ DOWNLOAD: [Posy's Cursors 1.3 Improved by ripperhowls.zip](https://github.com/ri
 Original info and instructions.txt:
 
 https://youtu.be/YThelfB2fvg
-http://www.michieldb.nl/other/cursors
-
 
 To easily install the cursors in Windows 10 and below, do the following:
 
