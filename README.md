@@ -1,6 +1,6 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Posy's Cursors edit by ripperhowls](https://user-images.githubusercontent.com/95716821/145264637-cb02eba0-75ad-49fb-a266-953c75dfede2.jpg)
+![Posy's Cursors edit by ripperhowls](https://user-images.githubusercontent.com/95716821/145283265-00d76061-b5f4-44c0-88c1-3a469059e921.jpg)
 
 The cursors and installers are backwards compatible all the way from Win10 to WinXP! Not tested on Win11 so use at your own risk!
 
