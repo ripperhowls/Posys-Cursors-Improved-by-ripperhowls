@@ -1,6 +1,6 @@
 # Posy-Improved-Cursors-ediy-by-ripperhowls
 The source cursors were created by the wonderful Michiel de Boer aka Posy.
-If you have the possibility, please express your gratitude to him: http://www.michieldb.nl/other/cursors/
+If you have the possibility, please express your gratitude to him: https://www.paypal.com/paypalme/michieldb
 Thank You!
 
 Original info and instructions.txt:
