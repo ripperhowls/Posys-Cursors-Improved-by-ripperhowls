@@ -1,8 +1,11 @@
 # Posy-Improved-Cursors-ediy-by-ripperhowls
 The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
+
 If you have the possibility, please express your gratitude to him: https://www.paypal.com/paypalme/michieldb
-The main idea of the edited version of the cursor pack is to get rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow rod.
-Thank You!
+
+The main idea of the edited version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow rod and color mismatch.
+
+Thanks for using and enjoy!
 
 DOWNLOAD: [Posy's Cursors 1.3 Improved by ripperhowls.zip](https://github.com/ripperhowls/Posy-Improved-Cursors-ripperhowls/files/7675554/Posy.s.Cursors.1.3.Improved.by.ripperhowls.zip)
 
