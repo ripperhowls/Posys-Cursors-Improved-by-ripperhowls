@@ -39,6 +39,8 @@ Enjoy!
 
 Version history:
 
+2021-11-08 (v1.4 - edit by ripperhowls) Added pin and person pointers to .inf installers for original scale schemes, removed rod from all arrows, added new cursors: white alt, mono person black, mono pin black, black hand wrong finger, removed strokeless scheme.
+
 2020-06-01 (v1.3) Replaced a faulty cursor file in the 'All Posy's cursors' zip file (thanks Corey!).
 
 2020-03-01 (v1.2) Added 'Posy precise v2' and 'Posy beam Free Center' to the extra cursors.
