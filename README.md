@@ -2,6 +2,8 @@
 
 ![Posy's Cursors edit by ripperhowls](https://user-images.githubusercontent.com/95716821/145283265-00d76061-b5f4-44c0-88c1-3a469059e921.jpg)
 
+NOTE: I am not responsible if anything happens to software or hardware.
+
 The cursors and installers are backwards compatible all the way from Win10 to WinXP! Not tested on Win11 so use at your own risk!
 
 The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
