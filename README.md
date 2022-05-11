@@ -1,6 +1,15 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Standart Scheme](https://user-images.githubusercontent.com/95716821/167903631-ab701e7a-7e42-459c-b833-574dfbccac1a.png)
+![Standart Scheme](https://user-images.githubusercontent.com/95716821/167911878-f70b8bca-0faf-4919-9ec1-1be578cb84aa.png)
+
+![Black Scheme](https://user-images.githubusercontent.com/95716821/167909993-c5dbed1b-ab1b-44ac-b725-4e48dffcbee4.png)
+
+![Mono Scheme](https://user-images.githubusercontent.com/95716821/167914277-92ad33b8-b48f-40de-b125-4cfb5878f753.png)
+
+![Mono Black Scheme](https://user-images.githubusercontent.com/95716821/167918807-9186ddb3-1fd1-4d16-b19f-77ba65d1ae9b.png)
+
+![Extras](https://user-images.githubusercontent.com/95716821/167920545-603147a3-b04f-49ab-a034-228d818bf73e.png)
+
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
