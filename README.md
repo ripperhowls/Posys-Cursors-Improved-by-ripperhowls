@@ -1,6 +1,6 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Standart Scheme](https://user-images.githubusercontent.com/95716821/167911878-f70b8bca-0faf-4919-9ec1-1be578cb84aa.png)
+![Standard Scheme](https://user-images.githubusercontent.com/95716821/167922999-c4741028-2afb-41ef-82ce-f2e813df4094.png)
 
 ![Black Scheme](https://user-images.githubusercontent.com/95716821/167909993-c5dbed1b-ab1b-44ac-b725-4e48dffcbee4.png)
 
@@ -48,7 +48,7 @@ Enjoy!
 Version history:
 
 2022-05-11 (v1.5) edit by ripperhowls:
-- added new cursors: pin black and person black;
+- added new cursors: pin black, person black and mono forbidden;
 - changed stroke color for forbidden cursor standart scheme.
 
 2021-11-08 (v1.4) edit by ripperhowls: 
