@@ -1,6 +1,6 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Posy's Cursors edit by ripperhowls](https://user-images.githubusercontent.com/95716821/145283265-00d76061-b5f4-44c0-88c1-3a469059e921.jpg)
+![Standart Scheme](https://user-images.githubusercontent.com/95716821/167903631-ab701e7a-7e42-459c-b833-574dfbccac1a.png)
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
@@ -38,7 +38,9 @@ Enjoy!
 
 Version history:
 
-2022-05-11 (v1.5) edit by ripperhowls: added new cursors: pin black and person black.
+2022-05-11 (v1.5) edit by ripperhowls:
+- added new cursors: pin black and person black;
+- changed stroke color for forbidden cursor standart scheme.
 
 2021-11-08 (v1.4) edit by ripperhowls: 
 - added pin and person pointers to .inf installers for original scale schemes;
