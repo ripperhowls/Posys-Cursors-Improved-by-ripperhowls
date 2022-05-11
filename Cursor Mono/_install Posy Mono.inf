@@ -1,0 +1,58 @@
+; Posy's Cursor Mono
+; michieldb.nl
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+[Scheme.Cur]
+Posy cursor.cur
+Posy help.cur
+Posy mono background max 96.ani
+Posy mono wait max 96.ani
+Posy beam.cur
+Posy mono forbidden.cur
+Posy size NS.cur
+Posy size EW.cur
+Posy size NwSe.cur
+Posy size NeSw.cur
+Posy move.cur
+Posy hand.cur
+Posy precise.cur
+Posy pen.cur
+Posy alt.cur
+Posy mono pin.cur
+Posy mono person.cur
+
+[Scheme.Txt]
+
+[Strings]
+CUR_DIR       = "Cursors\Posys Cursor Mono Improved by ripperhowls"
+SCHEME_NAME   = "Posy's Cursor Mono Improved by ripperhowls"
+pointer       = "Posy cursor.cur"
+help          = "Posy help.cur"
+work          = "Posy mono background max 96.ani"
+busy          = "Posy mono wait max 96.ani"
+text          = "Posy beam.cur"
+unavailiable  = "Posy mono forbidden.cur"
+vert          = "Posy size NS.cur"
+horz          = "Posy size EW.cur"
+dgn1          = "Posy size NwSe.cur"
+dgn2          = "Posy size NeSw.cur"
+move          = "Posy move.cur"
+link          = "Posy hand.cur"
+cross         = "Posy precise.cur"
+hand          = "Posy pen.cur"
+alternate     = "Posy alt.cur"
+pin             = "Posy mono pin.cur"
+person        = "Posy mono person.cur"
