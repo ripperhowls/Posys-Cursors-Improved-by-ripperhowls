@@ -1,0 +1,4 @@
+For some reason, animated cursors with the included maximum size of 128x128 (400% scaling) do not work.
+This could be an error of either Windows, or the software used to create the cursor files.
+
+In case they work in a future version of Windows, I have included these files here.
