@@ -1,0 +1,14 @@
+Thank you for downloading my carefully designed cursors!
+Greetings from Posy (or: Michiel de Boer) and ripperhowls (from v.1.4)
+
+https://www.youtube.com/user/PosyMusic
+http://www.michieldb.nl/other/cursors
+
+
+To use any of these cursors, copy this folder to the windows/cursors directory, and locate the cursor you want in the cursor preferences.
+
+(If a cursor is not located in the windows/cursors directory, the cursor will reset after the next reboot of Windows.)
+
+Enjoy!
+
+Edit by ripperhowls: https://github.com/ripperhowls/Posys-Improved-Cursors-edit-by-ripperhowls 
