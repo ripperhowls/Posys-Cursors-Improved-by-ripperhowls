@@ -18,7 +18,7 @@ The source cursors were created by the wonderful Michiel de Boer aka Posy: http:
 
 https://youtu.be/YThelfB2fvg
 
-If you have the possibility, please express your gratitude to author: https://www.paypal.com/paypalme/michieldb
+If you have the possibility, please donate to author: https://www.paypal.com/paypalme/michieldb
 
 The main idea of the edited version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow's tail and make color of pointers match perfectly.
 
