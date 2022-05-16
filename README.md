@@ -1,15 +1,14 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Standard Scheme](https://user-images.githubusercontent.com/95716821/167922999-c4741028-2afb-41ef-82ce-f2e813df4094.png)
+![Standard Scheme](https://user-images.githubusercontent.com/95716821/168637859-578db886-66c1-4ba1-a6fe-57577232a421.png)
 
-![Black Scheme](https://user-images.githubusercontent.com/95716821/168626282-6f3b36fd-26e4-4da1-adfb-b3a1f43b7aec.png)
+![Black Scheme](https://user-images.githubusercontent.com/95716821/168640776-57591500-f411-4117-8896-b012521338a8.png)
 
-![Mono Scheme](https://user-images.githubusercontent.com/95716821/167914277-92ad33b8-b48f-40de-b125-4cfb5878f753.png)
+![Mono Scheme](https://user-images.githubusercontent.com/95716821/168642216-21ce1364-decd-47f2-9e5b-b973fa0af16d.png)
 
-![Mono Black Scheme](https://user-images.githubusercontent.com/95716821/167918807-9186ddb3-1fd1-4d16-b19f-77ba65d1ae9b.png)
+![Mono Black Scheme](https://user-images.githubusercontent.com/95716821/168643552-0fae63c5-9827-4343-b906-da48f7b40bb2.png)
 
-![Extras](https://user-images.githubusercontent.com/95716821/167920545-603147a3-b04f-49ab-a034-228d818bf73e.png)
-
+![Extras](https://user-images.githubusercontent.com/95716821/168645620-eafa912c-7256-4109-9291-2754f090dfc8.png)
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
