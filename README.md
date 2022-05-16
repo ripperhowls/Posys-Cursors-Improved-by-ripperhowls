@@ -2,7 +2,7 @@
 
 ![Standard Scheme](https://user-images.githubusercontent.com/95716821/167922999-c4741028-2afb-41ef-82ce-f2e813df4094.png)
 
-![Black Scheme](https://user-images.githubusercontent.com/95716821/167909993-c5dbed1b-ab1b-44ac-b725-4e48dffcbee4.png)
+![Black Scheme](https://user-images.githubusercontent.com/95716821/168626282-6f3b36fd-26e4-4da1-adfb-b3a1f43b7aec.png)
 
 ![Mono Scheme](https://user-images.githubusercontent.com/95716821/167914277-92ad33b8-b48f-40de-b125-4cfb5878f753.png)
 
