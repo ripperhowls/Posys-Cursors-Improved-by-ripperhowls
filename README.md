@@ -47,7 +47,7 @@ Enjoy!
 Version history:
 
 2022-05-24 (v1.6) edit by ripperhowls:
-- added new cursors in extras: white/black cursor with tails;
+- added two new cursors in extras: white/black cursors with tail.
 
 2022-05-11 (v1.5) edit by ripperhowls:
 - added new cursors: pin black, person black and mono forbidden;
