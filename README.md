@@ -1,14 +1,14 @@
 # Posys-Improved-Cursors-edit-by-ripperhowls
 
-![Standard Scheme](https://user-images.githubusercontent.com/95716821/168637859-578db886-66c1-4ba1-a6fe-57577232a421.png)
+![Default](https://user-images.githubusercontent.com/95716821/170109825-fea7b326-963e-4766-a932-e2205d103b68.png)
 
-![Black Scheme](https://user-images.githubusercontent.com/95716821/168640776-57591500-f411-4117-8896-b012521338a8.png)
+![Black](https://user-images.githubusercontent.com/95716821/170109371-97e815f0-f447-4ef4-8462-55e9b8fce0ed.png)
 
-![Mono Scheme](https://user-images.githubusercontent.com/95716821/168642216-21ce1364-decd-47f2-9e5b-b973fa0af16d.png)
+![Mono](https://user-images.githubusercontent.com/95716821/170110864-db4470bb-a5c6-492c-b76e-9e9ec4229773.png)
 
-![Mono Black Scheme](https://user-images.githubusercontent.com/95716821/168643552-0fae63c5-9827-4343-b906-da48f7b40bb2.png)
+![Mono Black](https://user-images.githubusercontent.com/95716821/170112594-158a22a3-a7eb-4f23-bf42-a69a7d170b42.png)
 
-![Extras](https://user-images.githubusercontent.com/95716821/168645620-eafa912c-7256-4109-9291-2754f090dfc8.png)
+![Extras](https://user-images.githubusercontent.com/95716821/170105387-261faab4-f1e4-4651-a392-5c0aea3dae33.png)
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
@@ -45,6 +45,9 @@ You can always manually install the cursors, or check the installer yourself by 
 Enjoy!
 
 Version history:
+
+2022-05-24 (v1.6) edit by ripperhowls:
+- added new cursors in extras: white/black cursor with tails;
 
 2022-05-11 (v1.5) edit by ripperhowls:
 - added new cursors: pin black, person black and mono forbidden;
