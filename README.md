@@ -44,7 +44,7 @@ Enjoy!
 
 Version history:
 
-2022-11-17 (v1.7) by ripperhowls:
+2022-11-17 (v1.7 Final) by ripperhowls:
 - verified compatibility with Windows 11;
 - improved installation script with the subsequent appearance of the cursor settings window;
 - added some new cursors in extras.
