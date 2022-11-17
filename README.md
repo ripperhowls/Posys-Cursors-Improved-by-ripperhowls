@@ -14,7 +14,7 @@ NOTE: I am not responsible if anything happens to software or hardware.
 
 The cursors and installers are backwards compatible all the way from WinXP to Win11!
 
-The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
+The source cursors were created by Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 
 https://youtu.be/YThelfB2fvg
 
