@@ -16,8 +16,6 @@ The cursors and installers are backwards compatible all the way from WinXP to Wi
 
 The source cursors were created by Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 
-https://youtu.be/YThelfB2fvg
-
 The main idea of the improved version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow's tail and make color of pointers match perfectly.
 
 info and instructions.txt:
