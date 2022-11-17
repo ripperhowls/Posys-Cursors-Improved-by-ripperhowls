@@ -1,59 +1,62 @@
-# Posys-Improved-Cursors-edit-by-ripperhowls
+# Posys-Cursors-Improved-by-ripperhowls
 
-![Default](https://user-images.githubusercontent.com/95716821/170109825-fea7b326-963e-4766-a932-e2205d103b68.png)
+![Default](https://user-images.githubusercontent.com/95716821/202490563-743330e4-6df4-424c-8a90-80a51b851bb2.png)
 
-![Black](https://user-images.githubusercontent.com/95716821/170109371-97e815f0-f447-4ef4-8462-55e9b8fce0ed.png)
+![Black](https://user-images.githubusercontent.com/95716821/202490628-2d39bec5-c11f-4dba-9193-c8f5d3ac9581.png)
 
-![Mono](https://user-images.githubusercontent.com/95716821/170110864-db4470bb-a5c6-492c-b76e-9e9ec4229773.png)
+![Mono](https://user-images.githubusercontent.com/95716821/202490738-90ba3b00-8600-48ec-8c42-d19e28713033.png)
 
-![Mono Black](https://user-images.githubusercontent.com/95716821/170112594-158a22a3-a7eb-4f23-bf42-a69a7d170b42.png)
+![Mono Black](https://user-images.githubusercontent.com/95716821/202490783-53ca6af2-1389-442c-a665-ecb00a23d8d5.png)
 
-![Extras](https://user-images.githubusercontent.com/95716821/170105387-261faab4-f1e4-4651-a392-5c0aea3dae33.png)
+![Extras](https://user-images.githubusercontent.com/95716821/202490815-1f066b2e-ae52-42f6-9114-d2dc7fb91cf4.png)
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
-The cursors and installers are backwards compatible all the way from Win10 to WinXP! Not tested on Win11 so use at your own risk!
+The cursors and installers are backwards compatible all the way from WinXP to Win11!
 
-The source cursors were created by the wonderful Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
+The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 
 https://youtu.be/YThelfB2fvg
 
-If you have the possibility, please donate to author: https://www.paypal.com/paypalme/michieldb
-
-The main idea of the edited version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow's tail and make color of pointers match perfectly.
+The main idea of the improved version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow's tail and make color of pointers match perfectly.
 
 info and instructions.txt:
 
 To easily install the cursors in Windows 10 and below, do the following:
 
-0. Agree to these terms: I am not responsible if anything happens to software or hardware.
+0.
+Agree to these terms: I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
 
-1. Drag the folders out of the Zip file.
+1.
+Drag the containing folder out of the Zip file.
 
-2. Open a folder ("Posy's Cursor Black" for example)
+2.
+Open the folder.
 
-3. Right click the "_Install" file, and choose "install" in the menu. Discard any warning messages if they appear.
+3.
+Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
 
-4a. Go to the cursor options.
-(In Windows 10, search for "Themes" (in your language) and open themes. Then click the "Mouse Cursor" button.)
-
-4b. In the Mouse options, go to the "Pointers" tab.
-
-4c.  Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
+4.
+Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
 
 Enjoy!
 
 Version history:
 
-2022-05-24 (v1.6) edit by ripperhowls:
-- added two new cursors in extras: white/black cursors with tail.
+2022-11-17 (v1.7) by ripperhowls:
+- verified compatibility with Windows 11;
+- improved installation script with the subsequent appearance of the cursor settings window;
+- added some new cursors in extras.
 
-2022-05-11 (v1.5) edit by ripperhowls:
+2022-05-24 (v1.6) by ripperhowls:
+- returned two cursors in extras: white/black cursors with tail.
+
+2022-05-11 (v1.5) by ripperhowls:
 - added new cursors: pin black, person black and mono forbidden;
 - changed stroke color for forbidden cursor standard scheme.
 
-2021-11-08 (v1.4) edit by ripperhowls: 
+2021-11-08 (v1.4) by ripperhowls: 
 - added pin and person pointers to .inf installers for original scale schemes;
 - removed strokeless scheme and some extra pointers;
 - removed tail from all cursors;
