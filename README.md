@@ -22,21 +22,16 @@ info and instructions.txt:
 
 To easily install the cursors in Windows 10 and below, do the following:
 
-0.
-Agree to these terms: I am not responsible if anything happens to software or hardware.
+0. Agree to these terms: I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
 
-1.
-Drag the containing folder out of the Zip file.
+1. Drag the containing folder out of the Zip file.
 
-2.
-Open the folder.
+2. Open the folder.
 
-3.
-Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
+3. Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
 
-4.
-Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
+4. Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
 
 Enjoy!
 
