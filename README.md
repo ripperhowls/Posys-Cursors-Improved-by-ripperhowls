@@ -16,8 +16,6 @@ The cursors and installers are backwards compatible all the way from WinXP to Wi
 
 The source cursors were created by Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 
-The main idea of the improved version of the cursor pack is getting rid of redundancy, making cursors seamless, lightweight and fast by removing the arrow's tail and make color of pointers match perfectly.
-
 info and instructions.txt:
 
 To easily install the cursors in Windows 10 and below, do the following:
