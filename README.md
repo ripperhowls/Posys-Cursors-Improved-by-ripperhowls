@@ -1,4 +1,4 @@
-# Posys-Cursors-Improved-by-ripperhowls
+# Posys-Cursors-Improved-by-wrink+dater
 
 ![Default](https://user-images.githubusercontent.com/95716821/202490563-743330e4-6df4-424c-8a90-80a51b851bb2.png)
 
@@ -35,19 +35,19 @@ Enjoy!
 
 Version history:
 
-2022-11-17 (v1.7 Final) by ripperhowls:
+2022-11-17 (v1.7 Final) by wrink+dater:
 - verified compatibility with Windows 11;
 - improved installation script with the subsequent appearance of the cursor settings window;
 - added some new cursors in extras.
 
-2022-05-24 (v1.6) by ripperhowls:
+2022-05-24 (v1.6) by wrink+dater:
 - returned two cursors in extras: white/black cursors with tail.
 
-2022-05-11 (v1.5) by ripperhowls:
+2022-05-11 (v1.5) by wrink+dater:
 - added new cursors: pin black, person black and mono forbidden;
 - changed stroke color for forbidden cursor standard scheme.
 
-2021-11-08 (v1.4) by ripperhowls: 
+2021-11-08 (v1.4) by wrink+dater: 
 - added pin and person pointers to .inf installers for original scale schemes;
 - removed strokeless scheme and some extra pointers;
 - removed tail from all cursors;
